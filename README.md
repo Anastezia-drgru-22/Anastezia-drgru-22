@@ -48,6 +48,6 @@
 
 ## 📫 Связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@anastasik_22)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nastya-kashinskaya@yandex.ru)  [![HH](https://img.shields.io/badge/-Резюме%20на%20hh.ru-FF6B00?style=flat&logo=hh.ru&logoColor=white)](https://spb.hh.ru/resume/81805f20ff0e577a9d0039ed1f6e776179417a)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@anastasik_22)  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nastya-kashinskaya@yandex.ru)  [![HH](https://img.shields.io/badge/-Резюме%20на%20hh.ru-FF6B00?style=flat&logo=hh.ru&logoColor=white)](https://spb.hh.ru/resume/81805f20ff0e577a9d0039ed1f6e776179417a?hhtmFrom=resume_list)
 
 
